@@ -1,0 +1,15 @@
+E:\Lich\bin\Debug\net8.0\Lich.exe
+E:\Lich\bin\Debug\net8.0\Lich.deps.json
+E:\Lich\bin\Debug\net8.0\Lich.runtimeconfig.json
+E:\Lich\bin\Debug\net8.0\Lich.dll
+E:\Lich\bin\Debug\net8.0\Lich.pdb
+E:\Lich\obj\Debug\net8.0\Lich.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lich\obj\Debug\net8.0\Lich.AssemblyInfoInputs.cache
+E:\Lich\obj\Debug\net8.0\Lich.AssemblyInfo.cs
+E:\Lich\obj\Debug\net8.0\Lich.csproj.CoreCompileInputs.cache
+E:\Lich\obj\Debug\net8.0\Lich.sourcelink.json
+E:\Lich\obj\Debug\net8.0\Lich.dll
+E:\Lich\obj\Debug\net8.0\refint\Lich.dll
+E:\Lich\obj\Debug\net8.0\Lich.pdb
+E:\Lich\obj\Debug\net8.0\Lich.genruntimeconfig.cache
+E:\Lich\obj\Debug\net8.0\ref\Lich.dll
